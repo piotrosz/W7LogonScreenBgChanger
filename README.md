@@ -6,4 +6,4 @@ Desktop context menu entry:
 
 Result:
 
-![Collage on Windows](http://if.pw.edu.pl/~ludwik/loginscreen.png)
+![Collage on Windows](http://if.pw.edu.pl/~ludwik/loginscreen.jpg)
