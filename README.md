@@ -4,6 +4,6 @@ Application adds desktop context menu entry ("Change logon screen"):
 
 ![Context menu](http://if.pw.edu.pl/~ludwik/loginscreen_contextmenu.png)
 
-After that you can change background image, which is shown while you log on:
+and allows you to change background image, which is shown while you log on to Windows:
 
 ![Collage on Windows](http://if.pw.edu.pl/~ludwik/loginscreen.jpg)
